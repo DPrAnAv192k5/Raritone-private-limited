@@ -104,33 +104,29 @@ The objective of the internship was to study modern fashion technologies, unders
 ## Repository Structure
 
 ```text
-├── day1_task/
-├── day2_task/
-├── day3_task/
-├── day4_task/
-├── day5_task/
-├── day8_task/
-├── day9_task/
-├── day10_task/
-├── day12_task/
-├── day13_task/
-├── day14_task/
-├── day15_task/
-├── day16_task/
-├── day17_task/
-├── day18_task/
+├── COMPUTER VISION PRACTICAL REPORT.pdf
+├── Devalla Pranav (1).pdf
+├── Devalla Pranav_day15 (1).pdf
+├── Devalla Pranav_day17 (1).pdf
+├── Pranav_day12_task (1).pdf
+├── computer vision day10 report.pdf
+├── day14_pranavtask (1).pdf
+├── day16_pranav (1).pdf
+├── day18_pranav (1).pdf
+├── devallapranav192k5.pdf
+├── devallapranav_2.pdf
+├── pranav-1.pdf
 
-└── finalday_task/
-    ├── Final_Presentation.pptx
-    ├── Project_Report.docx
-    ├── Documentation.docx
-    ├── Key_Learnings.docx
-    ├── Challenges_and_Solutions.docx
-    ├── Suggestions_for_Raritone.docx
-    ├── Workflow_Diagrams/
-    └── Research_Images/
+└── finalday/
+    ├── Final Presentation.pdf
+    ├── Project Report.pdf
+    ├── Documentation.pdf
+    ├── Key Learnings Report.pdf
+    ├── Challenges & Solutions.pdf
+    ├── Suggestions for Raritone.pdf
+    ├── Team Documentation.pdf
+    └── README.md
 ```
-
 ---
 
 ## Deliverables
